@@ -545,7 +545,7 @@ GameObject:
   - component: {fileID: 1701042885}
   - component: {fileID: 1701042884}
   m_Layer: 0
-  m_Name: Spawb Manager
+  m_Name: Spawn Manager
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -565,6 +565,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   enemyPrefab: {fileID: 2969722362798341966, guid: 612f2a0ca0c3e4b4693c9d6708c51969,
     type: 3}
+  powerupPrefab: {fileID: 3028041724104060513, guid: 75c0e3cf696caaa41abba5dcaddfb8a8,
+    type: 3}
+  enemyCount: 0
+  waveNumber: 1
 --- !u!4 &1701042885
 Transform:
   m_ObjectHideFlags: 0
