@@ -8,6 +8,7 @@ TagManager:
   - Obstacle
   - Powerup
   - Enemy
+  - Bad
   layers:
   - Default
   - TransparentFX
